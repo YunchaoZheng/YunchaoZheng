@@ -3,7 +3,7 @@
 ---
 
 <b align="center">やあ　みんな！</b> Hi, there! 🙋‍♂️ Indeed i prefer be called 
-*Sawamura Mouichirou*  <img src="https://img.shields.io/badge/FakeName-SawamuraMouichirou-green"></img> 
+*Sawamura Mouichirou*  <img src="https://img.shields.io/badge/FakeName-SawamuraMouichirou-blue"></img> 
 
 -  🧩 I'm from *Huzhou Zhejiang China(RPC)*, born in *1999.Mar*
 
