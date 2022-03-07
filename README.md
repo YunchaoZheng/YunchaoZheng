@@ -22,9 +22,7 @@
 <a href="mailto:yunchaozk@gmail.com"><img src="https://img.shields.io/badge/Gmail-%40SawamuraMouichirou-red?logo=Gmail"></img></a>
 
 Contact Location:
-{% blockquote %}
 Workstation 93, E301-2, School of Ecnomics and Management, DUT
-{% endblockquote %}
 
 ---
 <h5 align="left">My Languages and Tools:</h5>
