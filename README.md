@@ -3,7 +3,7 @@
 ---
 
 <b align="center">やあ　みんな！</b> Hi, there! 🙋‍♂️ Indeed i prefer be called 
-*Hayasaka Hideki*  <img src="https://img.shields.io/badge/%E3%81%8A%E3%82%8C-%E6%97%A9%E5%9D%82%E7%A7%80%E6%A8%B9-brightgreen?style=flat-square&logo=appveyor"></img> 
+*Hayasaka Hideki*  <img src="https://img.shields.io/badge/%E3%81%8A%E3%82%8C-%E6%97%A9%E5%9D%82%E7%A7%80%E6%A8%B9-brightgreen?style=flat-square"></img> 
 
 -  🧩 I'm from *Huzhou Zhejiang China(RPC)*, born in *1999.Mar*
 
