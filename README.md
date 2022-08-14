@@ -38,7 +38,7 @@ Currently I've created a demo student score manage system based on Python, Strea
 </img>
 </a>
 
-[Github Repository](https://github.com/YunchaoZheng/student-score-management)
+[Github Repository](https://github.com/YunchaoZheng/student-score-management) |
 [Heroku Deployment](https://student-score-management.herokuapp.com/)
 
 ---
