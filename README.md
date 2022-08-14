@@ -26,6 +26,9 @@ Workstation 93, E301-2, School of Ecnomics and Management, DUT
 
 ---
 <h5 align="left">Recent Work:</h5>
+
+-  **stuManage**
+
 Currently I've created a demo student score manage system based on Python, Streamlit
 
 **↓↓Click me to view online version↓↓**
@@ -36,7 +39,6 @@ Currently I've created a demo student score manage system based on Python, Strea
 </a>
 
 [Github Repository](https://github.com/YunchaoZheng/student-score-management)
-
 [Heroku Deployment](https://student-score-management.herokuapp.com/)
 
 ---
