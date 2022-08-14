@@ -34,7 +34,9 @@ Currently I've created a demo student score manage system based on Python, Strea
 <img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E6%97%A9%E5%9D%82%E7%A7%80%E6%A8%B9-green?style=flat-square&logo=appveyor">
 </img>
 </a>
+
 [Github Repository](https://github.com/YunchaoZheng/student-score-management)
+
 [Heroku Deployment](https://student-score-management.herokuapp.com/)
 
 ---
