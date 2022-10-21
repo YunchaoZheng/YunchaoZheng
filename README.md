@@ -3,7 +3,7 @@
 ---
 
 <b align="center">やあ　みんな！</b> Hi, there! 🙋‍♂️ Indeed i prefer be called 
-*Hayasaka Hideki*  <img src="https://img.shields.io/badge/%E3%81%8A%E3%82%8C-%E6%97%A9%E5%9D%82%E7%A7%80%E6%A8%B9-brightgreen?style=flat-square"></img> 
+*Sawamura Mouichirou*  <img src="https://img.shields.io/badge/Hi-澤村もう一郎-brightgreen?style=flat-square"></img> 
 
 -  🧩 I'm from *Huzhou Zhejiang China(RPC)*, born in *1999.Mar*
 
@@ -18,8 +18,8 @@
 ---
 <h5 align="left">Connect with me:</h5>
 
-<a href="https://t.me/HayasakaHideki" target="_blank"><img src="https://img.shields.io/badge/Telegram-HayasakaHideki-blue?logo=Telegram&style=flat-square"></img></a>
-<a href="mailto:yunchaozk@gmail.com"><img src="https://img.shields.io/badge/Gmail-HayasakaHideki-red?style=flat-square&logo=gmail"></img></a>
+<a href="https://t.me/SawamuraMouichirou" target="_blank"><img src="https://img.shields.io/badge/Telegram-SawamuraMouichirou-blue?logo=Telegram&style=flat-square"></img></a>
+<a href="mailto:yunchaozk@gmail.com"><img src="https://img.shields.io/badge/Gmail-SawamuraMouichirou-red?style=flat-square&logo=gmail"></img></a>
 
 Contact Location:
 Workstation 93, E301-2, School of Ecnomics and Management, DUT
@@ -34,7 +34,7 @@ Currently I've created a demo student score manage system based on Python, Strea
 **↓↓Click me to view online version↓↓**
 
 <a href="https://student-score-management.herokuapp.com/" target="blank">
-<img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E6%97%A9%E5%9D%82%E7%A7%80%E6%A8%B9-green?style=flat-square&logo=appveyor">
+<img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-澤村もう一郎-green?style=flat-square&logo=appveyor">
 </img>
 </a>
 
