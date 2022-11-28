@@ -21,7 +21,7 @@ Hi, there! 🙋‍♂️ This is AC6
 <a href="mailto:yunchaozk@gmail.com"><img src="https://img.shields.io/badge/Gmail-SawamuraMouichirou-red?style=flat-square&logo=gmail"></img></a>
 
 Contact Location:
-Workstation E301, School of Ecnomics and Management, DUT
+Workstation E301, School of Economics and Management, DUT
 
 ---
 <h5 align="left">Recent Work:</h5>
