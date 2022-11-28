@@ -2,8 +2,7 @@
 
 ---
 
-<b align="center">やあ　みんな！</b> Hi, there! 🙋‍♂️ Indeed i prefer be called 
-*Sawamura Mouichirou*  <img src="https://img.shields.io/badge/Hi-澤村もう一郎-brightgreen?style=flat-square"></img> 
+Hi, there! 🙋‍♂️ This is AC6
 
 -  🧩 I'm from *Huzhou Zhejiang China(RPC)*, born in *1999.Mar*
 
@@ -11,7 +10,7 @@
 
 -  📘 I'm currently learning at DUT
 
--  ✒️ I'm writing on ***{% link Re:Zero 〜異世界行ったら本気だす〜 https://yunchaozheng.github.io %}***
+-  ✒️ I'm writing on NaN
 
 -  ✉️ Reach me on *yunchaozk@mail.dlut.edu.cn*、*yunchaozk@outlook.com*
 
@@ -22,7 +21,7 @@
 <a href="mailto:yunchaozk@gmail.com"><img src="https://img.shields.io/badge/Gmail-SawamuraMouichirou-red?style=flat-square&logo=gmail"></img></a>
 
 Contact Location:
-Workstation 93, E301-2, School of Ecnomics and Management, DUT
+Workstation E301, School of Ecnomics and Management, DUT
 
 ---
 <h5 align="left">Recent Work:</h5>
@@ -34,7 +33,7 @@ Currently I've created a demo student score manage system based on Python, Strea
 **↓↓Click me to view online version↓↓**
 
 <a href="https://student-score-management.herokuapp.com/" target="blank">
-<img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-澤村もう一郎-green?style=flat-square&logo=appveyor">
+<img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-AC6-green?style=flat-square">
 </img>
 </a>
 
