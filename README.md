@@ -10,7 +10,7 @@ Hi, there! 🙋‍♂️ This is AC6
 
 -  📘 I'm currently learning at DUT
 
--  ✒️ I'm writing on http://sakuraz.top/
+-  ✒️ I'm writing on http://sakuraz.top
 
 -  ✉️ Reach me on 
 
