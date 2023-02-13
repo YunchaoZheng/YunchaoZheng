@@ -10,18 +10,9 @@ Hi, there! 🙋‍♂️ This is AC6
 
 -  📘 I'm currently learning at DUT
 
--  ✒️ I'm writing on https://yunchao.wshare.online/
+-  ✒️ I'm writing on http://sakuraz.top/
 
--  ✉️ Reach me on *yunchaozk@mail.dlut.edu.cn*、*yunchaozk@outlook.com*
-
----
-<h5 align="left">Connect with me:</h5>
-
-<a href="https://t.me/SawamuraMouichirou" target="_blank"><img src="https://img.shields.io/badge/Telegram-SawamuraMouichirou-blue?logo=Telegram&style=flat-square"></img></a>
-<a href="mailto:yunchaozk@gmail.com"><img src="https://img.shields.io/badge/Gmail-SawamuraMouichirou-red?style=flat-square&logo=gmail"></img></a>
-
-Contact Location:
-Workstation E301, School of Economics and Management, DUT
+-  ✉️ Reach me on 
 
 ---
 <h5 align="left">Recent Work:</h5>
