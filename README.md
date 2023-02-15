@@ -8,4 +8,31 @@
 
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
 
-![Metrics](https://metrics.lecoq.io/YunchaoZheng?template=classic&base.header=0&languages=1&achievements=1&isocalendar=1&code=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&languages=true&languages.ignored=html%2C%20css&languages.limit=5&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=oreos.ml&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=true&config.timezone=Asia%2FShanghai)
+![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.base.svg)
+
+<table>
+<tr>
+    <th align="center">Half-year calendar</th>
+    <th align="center">Licenses with open-source ratio graphs</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.licenses.ratio.svg" alt=""></img>
+</td>
+  </tr>
+  <tr>
+    <th align="center">Most used Languages</th>
+    <th align="center">Sakuraz Detailed report</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.languages.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.pagespeed.detailed.svg" alt=""></img>
+</td>
+  </tr>
+</table>
