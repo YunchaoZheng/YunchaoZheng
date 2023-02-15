@@ -4,7 +4,7 @@
 
 ---
 
-<img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1" />
+<div align="center"><img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1/resize,p_60" /></div>
 
 Reach me at: <a href="https://sakuraz.top">周日下午的啤酒、吉他与火灾</a>
 
