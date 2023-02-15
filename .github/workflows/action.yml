@@ -10,21 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         # 仓库位置, 可以fork后用自己的仓库
-      - uses: lowlighter/metrics@latest
+      - name: Default metrics
+        uses: lowlighter/metrics@latest
         with:
-          # GitHub token
+          filename: metrics.base.svg
           token: ${{ secrets.STATUS }}
-          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.STATUS }}
-        name: Half-year calendar
-      - uses: lowlighter/metrics@latest
+          base: header, activity, community, repositories, metadata
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.STATUS }}
           base: ""
           plugin_isocalendar: yes
-        name: Licenses with open-source ratio graphs
-      - uses: lowlighter/metrics@latest
+      - name: Licenses with open-source ratio graphs
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.licenses.ratio.svg
           token: ${{ secrets.STATUS }}
@@ -35,8 +35,8 @@ jobs:
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           plugin_licenses_legal: no
           plugin_licenses_ratio: yes
-        name: Most used
-      - uses: lowlighter/metrics@latest
+      - name: Most used
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.STATUS }}
@@ -46,8 +46,8 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_limit: 4
-        name: Detailed report
-      - uses: lowlighter/metrics@latest
+      - name: Detailed report
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
           token: NOT_NEEDED
