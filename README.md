@@ -1,40 +1,12 @@
 <h1 align="center">😺 🄷🄸 🅃🄷🄴🅁🄴  🅃🄷🄸🅂 🄸🅂 🅈🅄🄽🄲🄷🄰🄾 👋</h1><h5 align="center">Master(studying) from Economics & Management School, DUT</h5>
 
-<h5 align="center">𝐈 𝐚𝐦 𝐚 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐞𝐠𝐢𝐧𝐞𝐫, 𝐬𝐭𝐞𝐩𝐩𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡.</h5>
+<h3 align="center">𝐈 𝐚𝐦 𝐚 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐞𝐠𝐢𝐧𝐞𝐫, 𝐬𝐭𝐞𝐩𝐩𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡.</h3>
 
 ---
 
-<img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1/resize,p_60" style="margin:0 auto;"/>
+<img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1" />
 
-Hi, there! 🙋‍♂️ This is Yunchao
-
--  🧩 I'm from *Huzhou Zhejiang China(RPC)*, born in *1999.Mar*
-
--  🖥️ I'm currently working at DUT
-
--  📘 I'm currently learning at DUT
-
--  ✒️ I'm writing on http://sakuraz.top
-
--  ✉️ Reach me on 
-
----
-<h5 align="left">Recent Work:</h5>
-
--  **stuManage**
-
-Currently I've created a demo student score manage system based on Python, Streamlit
-
-**↓↓Click me to view online version↓↓**
-
-<a href="https://student-score-management.herokuapp.com/" target="blank">
-<img src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85-AC6-green?style=flat-square">
-</img>
-</a>
-
-[Github Repository](https://github.com/YunchaoZheng/student-score-management) |
-[Heroku Deployment](https://student-score-management.herokuapp.com/)
-
+Reach me at: <a href="https://sakuraz.top" />
 ---
 <h5 align="left">My Languages and Tools:</h5>
 
