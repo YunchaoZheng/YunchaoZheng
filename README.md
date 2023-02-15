@@ -1,4 +1,5 @@
-<h1 align="center">This is Yunchao 😺 🄷🄸 🅃🄷🄴🅁🄴  🅃🄷🄸🅂 🄸🅂 🅈🅄🄽🄲🄷🄰🄾 👋</h1><h5 align="center">Master(studying) from Economics & Management School, DUT</h5>
+<h1 align="center">😺 🄷🄸 🅃🄷🄴🅁🄴  🅃🄷🄸🅂 🄸🅂 🅈🅄🄽🄲🄷🄰🄾 👋</h1><h5 align="center">Master(studying) from Economics & Management School, DUT</h5>
+---
 <h5 align="center">𝐈 𝐚𝐦 𝐚 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐞𝐠𝐢𝐧𝐞𝐫, 𝐬𝐭𝐞𝐩𝐩𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡.</h5>
 ---
 
