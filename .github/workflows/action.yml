@@ -16,6 +16,7 @@ jobs:
           filename: metrics.base.svg
           token: ${{ secrets.STATUS }}
           base: header, activity, community, repositories, metadata
+          
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -23,18 +24,18 @@ jobs:
           token: ${{ secrets.STATUS }}
           base: ""
           plugin_isocalendar: yes
-      - name: Licenses with open-source ratio graphs
+          
+      - name: Licenses and permissions
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.licenses.ratio.svg
+          filename: metrics.plugin.licenses.svg
           token: ${{ secrets.STATUS }}
           base: ""
           template: repository
           repo: metrics
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
+
       - name: Most used
         uses: lowlighter/metrics@latest
         with:
