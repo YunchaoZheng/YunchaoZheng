@@ -54,7 +54,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.detailed.svg
-          token: ${{ env.GOOGLE_API }}
+          token: ${{ secrets.GOOGLE_ANALYSIS_API }}
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
