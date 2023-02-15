@@ -11,32 +11,8 @@
 ---
 
 ![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.base.svg)
-
+![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.pagespeed.detailed.svg)
+![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.isocalendar.svg)
+![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.licenses.ratio.svg)
+![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.languages.svg)
 </p>
-
-<table>
-<tr>
-    <th align="center">Half-year calendar</th>
-    <th align="center">Licenses with open-source ratio graphs</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.isocalendar.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.licenses.ratio.svg" alt=""></img>
-</td>
-  </tr>
-  <tr>
-    <th align="center">Most used Languages</th>
-    <th align="center">Sakuraz Detailed report</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.languages.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.pagespeed.detailed.svg" alt=""></img>
-</td>
-  </tr>
-</table>
