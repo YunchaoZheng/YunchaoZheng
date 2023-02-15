@@ -4,7 +4,7 @@
 
 ---
 
-<p><img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152015853.jpg"/></p>
+<img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1/resize,p_60" style="margin:0 auto;"/>
 
 Hi, there! 🙋‍♂️ This is Yunchao
 
