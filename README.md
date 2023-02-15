@@ -13,6 +13,6 @@
 ![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.base.svg)
 ![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.pagespeed.detailed.svg)
 ![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.isocalendar.svg)
-![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.licenses.ratio.svg)
+![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.licenses.svg)
 ![Metrics](https://github.com/YunchaoZheng/YunchaoZheng/blob/main/metrics.plugin.languages.svg)
 </p>
