@@ -25,16 +25,18 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           
-      - name: Licenses and permissions
+      - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.licenses.svg
+          filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.STATUS }}
           base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
       - name: Most used
         uses: lowlighter/metrics@latest
