@@ -1,6 +1,6 @@
 <h1 align="center">😺 🄷🄸 🅃🄷🄴🅁🄴  🅃🄷🄸🅂 🄸🅂 🅈🅄🄽🄲🄷🄰🄾 👋</h1><h5 align="center">Master(studying) from Economics & Management School, DUT</h5>
 
-<h2 align="center">𝐈 𝐚𝐦 𝐚 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐞𝐠𝐢𝐧𝐞𝐫, 𝐬𝐭𝐞𝐩𝐩𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡.</h2>
+<h2 align="center">𝐈 𝐚𝐦 𝐚 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫, 𝐬𝐭𝐞𝐩𝐩𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡.</h2>
 
 <div align="center"><img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1" /></div>
 
