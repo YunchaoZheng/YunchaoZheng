@@ -3,10 +3,10 @@
 <h2 align="center">𝐈 𝐚𝐦 𝐚 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫, 𝐬𝐭𝐞𝐩𝐩𝐢𝐧𝐠 𝐨𝐧 𝐦𝐲 𝐨𝐰𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡.</h2>
 
 <a href="https://github.com/yunchaozheng">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats-ochre-two-12.vercel.app/api?username=yunchaozheng&count_private=true&hide=&show_icons=true&theme=transparent)" />
+  <img align="center" src="https://github-readme-stats-ochre-two-12.vercel.app/api?username=yunchaozheng&count_private=true&hide=&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/yunchaozheng">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats-ochre-two-12.vercel.app/api/top-langs/?username=yunchaozheng&hide=javascript,html,vue,css&layout=compact&locale=ja&theme=transparent)" />
+  <img align="center" src="https://github-readme-stats-ochre-two-12.vercel.app/api/top-langs/?username=yunchaozheng&hide=javascript,html,vue,css&layout=compact&locale=ja&theme=transparent" />
 </a>
 
 <div align="center"><img alt="THIS IS THE WAY !" src="https://oss-cn-hongkong.sakuraz.top/imgs/202302152017053.jpg?x-oss-process=image/auto-orient,1" /></div>
